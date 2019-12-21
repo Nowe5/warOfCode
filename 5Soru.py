@@ -37,6 +37,6 @@ ky=input("kişi konumu y->")
 
 enYakin(kx,ky)
 
-print(enYakinKonumAgac)
-print(enKucuk)
-print(yol)
+print("en yakın ağacım konumu",enYakinKonumAgac)
+print("gidilecek kare sayisi",enKucuk)
+print("x de gidilecek yol-y de gidilecek yol" ,yol)
